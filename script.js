@@ -79,3 +79,6 @@ P.S. Функции вызывать не обязательно*/
 // }
 
 // detectPersonalLevel();
+
+
+// just init repo on new windows
